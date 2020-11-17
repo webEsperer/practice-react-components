@@ -1,11 +1,11 @@
 # [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React components inside #05
 
-Tym razem zmierzymy się z API, z którym mieliśmy już do czynienia - chodzi o [DARK Sky](https://darksky.net/dev).
+Tym razem zmierzymy się z API, z którym mieliśmy już do czynienia - chodzi o [weatherbit.io](https://www.weatherbit.io/api). Pamiętaj, że istnieje dzienny litmit (500 odpytań) w [darmowym planie](https://www.weatherbit.io/pricing#standard).
 
 ## Przypomnienie
-Aby móc skorzystać z tego API musisz się [zarejestrować](https://darksky.net/dev/register), aby uzyskać `key`.
+Aby móc skorzystać z tego API musisz się [zarejestrować](https://www.weatherbit.io/account/create), aby uzyskać `key`.
 
-Adres pod którym możemy pobierać dane o pogodzie to: `https://api.darksky.net/forecast/[key]/[latitude],[longitude`, gdzie:
+Adres pod którym możemy pobierać dane o pogodzie to: `https://api.weatherbit.io/v2.0/current?key=[key]&lat=[latitude]&lon=[longitude]`, gdzie:
 
 * **key** - Twój identyfikator
 * **latitude** - [szerokość geograficzna](https://pl.wikipedia.org/wiki/Szeroko%C5%9B%C4%87_geograficzna)
@@ -16,7 +16,7 @@ Przykładowe współrzędne to:
 * **Kraków**: 50.061389, 19.938333
 * **Wrocław**: 51.11, 17.022222
 
- Zapoznaj się z [dokumentacją](https://darksky.net/dev/docs), która prezentuje strukturę odpowiedzi. Znajdziesz tam także informacje jak pobierać dane w języku polskim.
+ Zapoznaj się z [dokumentacją](https://www.weatherbit.io/api/weather-current), która prezentuje strukturę odpowiedzi. Znajdziesz tam także informacje jak pobierać dane w języku polskim.
 
  ## Implementacja
 

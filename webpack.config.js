@@ -1,5 +1,5 @@
 const taskNumber = null;
-//number przerabianego zadania
+//numer przerabianego zadania
 
 const path = require('path');
 // importuję bibliotękę [path] z [node.js]
@@ -10,7 +10,7 @@ module.exports = {
     // definiuje plik wejściowy
     output: {
         path: path.resolve(__dirname, 'build'),
-        // definiuje ścieżką wyjściową
+        // definiuję ścieżką wyjściową
         filename: 'app.min.js',
         // definiuję nazwę pliku wyjściowego
     },
@@ -34,7 +34,7 @@ module.exports = {
             template: `./${taskNumber}/index.html`,
             // wskazuje plik źródłowy
             filename: 'index.html'
-            // określan nazwę dla pliku
+            // określam nazwę dla pliku
         })
     ]
 }

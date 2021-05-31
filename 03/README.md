@@ -1,4 +1,11 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React components inside #03
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e02-react-components` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+
+&nbsp;
+
+# `#03` React: Komponenty
+
+
 
 W pliku `app.js` znajdziesz komponent `<Article/>`, który renderuje treści przekazane przez `props`.
 
@@ -11,3 +18,7 @@ Następnie należy obsłużyć zdarzenie `submit` dla `form`, który ma dodać n
 Do renderowania wielu `<li/>` na podstawie `this.state.comments` wykorzystaj `.map()`.
 
 
+&nbsp;
+
+
+> :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:

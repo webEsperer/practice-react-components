@@ -1,4 +1,10 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React components inside #05
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e02-react-components` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+
+&nbsp;
+
+# `#05` React: Komponenty
+
 
 Tym razem zmierzymy się z API, z którym mieliśmy już do czynienia - chodzi o [weatherbit.io](https://www.weatherbit.io/api). Pamiętaj, że istnieje dzienny litmit (500 odpytań) w [darmowym planie](https://www.weatherbit.io/pricing#standard).
 
@@ -46,4 +52,7 @@ Przykładowe współrzędne to:
  }
  ```
 
+&nbsp;
 
+
+> :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:

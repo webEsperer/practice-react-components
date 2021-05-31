@@ -1,4 +1,10 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React components inside #04
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e02-react-components` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+
+&nbsp;
+
+# `#04` React: Komponenty
+
 
 W pliku `app.js` znajdziesz kod komponentu, który był omawiany w materiałach. 
 
@@ -14,4 +20,10 @@ Pamiętaj, aby nic nie usuwać ze `state` ponieważ usunięcie treści z pola `<
 
 ### Podpowiedź
 
-W `state` przechowuj tylko treść z pola `<input/>` natomiast w `.renderUsersList()` zrób warunek (`if`-a), który będzie zwracał pełną listę lub przefiltrowaną.
+W `state` przechowuj tylko treść z pola `<input/>` natomiast w `.renderUsersList()` zrób warunek (`if`a), który będzie zwracał pełną listę lub przefiltrowaną.
+
+
+&nbsp;
+
+
+> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:

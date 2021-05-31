@@ -1,4 +1,10 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React components inside #01
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e02-react-components` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+
+&nbsp;
+
+# `#01` React: Komponenty
+
 
 Twoim pierwszym wyzwaniem będzie napisać wszystkie metody cuklu życia komponentu jakie do tej pory poznałeś.
 
@@ -21,3 +27,15 @@ W pliku `./webpack.config.js` (w katalogu głównym) znajdziesz gotową konfigur
 Za każdym razem będziesz musiał modyfikować zawartość tej zmiennej i ponownie uruchamiać tryb developerski. Pamiętasz jak to zrobić? Gdzie zapisany jest skrót do odpowiedniej komendy?
 
 Pamiętaj również, że musimy mieć pobrane paczki z npm, które będziemy wykorzystywać podczas pracy z React. Wiesz jak je zainstalować?
+
+&nbsp;
+
+## Zadania
+
+
+### :point_right: &nbsp; [`#01`](./01) &nbsp; [`#02`](./02) &nbsp; [`#03`](./03) &nbsp; [`#04`](./04) &nbsp; [`#05`](./05) &nbsp; :point_left:
+
+&nbsp;
+
+
+> :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:

@@ -4,14 +4,14 @@
 
 # React: Komponenty
 
-Komponenty to budulec, z którego są tworzone aplikacje w React. Mimo, że ich budowa nie jest skomplikowana to posiadają one specjalne zachowania, których znajomość jest niezbędna do prawidłowego tworzenia aplikacji przy pomocy tej biblioteki.
+Komponenty to budulec aplikacji w Reakcie. Mimo że ich budowa nie jest skomplikowana, to posiadają one specjalne zachowania, których znajomość jest niezbędna do prawidłowego tworzenia aplikacji przy pomocy tej biblioteki.
 
-Wyzwania jakie będę przed Tobą stały w przygotowanych zadaniach mają na celu sprawdzenie czy dobrze rozumiesz wspomiane zachowania i reguły panujące we wnętrzu komponentów.
+Wyzwania, jakie przed Tobą stoją w przygotowanych zadaniach, mają na celu sprawdzenie, czy dobrze rozumiesz wspominane zachowania i reguły panujące we wnętrzu komponentów.
 
-Przed przystąpniem do zadań powinieneś poznać:
+Przed przystępnie do zadań powinieneś poznać:
 * cykl życia komponentów
 * stan wewnętrzny komponentów (ang. state) i zarządzanie nim
-* komponenty kontrolowane tj. takie, które zawierają formularze, a ich zawartość jest kontrolowana przez state.
+* komponenty kontrolowane, tj. takie, których zawartość jest kontrolowana przez state i które znajdziesz w formularzach.
 
 &nbsp;
 

@@ -19,7 +19,7 @@ class Article extends React.Component {
                         <div>
                             <label>
                                 <textarea 
-                                    style={{ "min-width": "300px", "min-height": "120px" }} 
+                                    style={{ "minWidth": "300px", "minHeight": "120px" }} 
                                     name="content" 
                                 />
                             </label>

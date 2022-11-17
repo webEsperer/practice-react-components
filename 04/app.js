@@ -1,5 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
+
+const root = createRoot(document.querySelector('#root'));
 
 class App extends React.Component {
     state = { 
@@ -84,4 +86,4 @@ class App extends React.Component {
     }
 }
 
-ReactDOM.render(<App/>, document.querySelector('#root'));
+root.render(<App/>);

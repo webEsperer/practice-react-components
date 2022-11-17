@@ -1,5 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
+
+const root = createRoot(document.querySelector('#root'));
 
 class Article extends React.Component {
     state = {
@@ -33,10 +35,9 @@ class Article extends React.Component {
     }
 }
 
-ReactDOM.render(
+root.render(
     <Article 
         title="Programowanie jest super!"
         body="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis justo ipsum, eleifend vel quam eget, lobortis posuere arcu. In vitae eros in nisi sodales aliquam..."
-    />, 
-    document.querySelector('#root')
+    />
 );

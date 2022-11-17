@@ -49,7 +49,7 @@ Dane pobrane z API zapisz w `state` i wykorzystaj w metodzie `.render()`. Ustaw 
     }
 
     // nic nie renderuj
-    retur null;
+    return null;
  }
  ```
 

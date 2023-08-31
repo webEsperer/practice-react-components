@@ -6,7 +6,8 @@
 # `#05` React: Komponenty
 
 
-Tym razem zmierzymy się z API, z którym mieliśmy już do czynienia – [weatherbit.io](https://www.weatherbit.io/api). Pamiętaj, że istnieje dzienny litmit (500 odpytań) w [darmowym planie](https://www.weatherbit.io/pricing#standard).
+Tym razem zmierzymy się z API, z którym mieliśmy już do czynienia – [weatherbit.io](https://www.weatherbit.io/api). Pamiętaj, że istnieje dzienny litmit (500 odpytań) w [darmowym planie](https://www.weatherbit.io/pricing#standard). 👉 Spraw, by nie wpłynęło to na Twoją pracę: *[Limity API w nauce programowania – obejdź to!
+](https://devmentor.pl/b/limity-api-w-nauce-programowania-obejdz-to)*
 
 ## Przypomnienie
 
